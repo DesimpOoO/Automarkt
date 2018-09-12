@@ -1,0 +1,19 @@
+{
+  "location": {
+    "ip": "localhost",
+    "port": "3306"
+  },
+  "database": {
+    "name": "carworld",
+    "unicode": true
+  },
+  "timezone": {
+    "useJDBCCompliantTimezoneShift": true,
+    "useLegacyDatetimeCode": false,
+    "serverTimezone": "UTC"
+  },
+  "credentials": {
+    "username": "root",
+    "password": ""
+  }
+}
